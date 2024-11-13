@@ -1,0 +1,86 @@
+[
+  {
+    "id": "Z001",
+    "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f1887cc906748c6985c70931bef5278_9366/zapatillas-de-running-supernova-rise.jpg",
+    "name": "Adidas Supernova Rise",
+    "desc": "Zapatillas de running con tecnología Boost para una mayor amortiguación y retorno de energía en cada paso.",
+    "price": 139990
+  },
+  {
+    "id": "Z002",
+    "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/29de8a85352f4a8ba2a182a72f3b83ce_9366/zapatillas-de-running-adizero-sl2.jpg",
+    "name": "Adidas Supernova Prima",
+    "desc": "Zapatillas de running con tecnología Adizero para una mayor velocidad y comodidad en tus carreras.",
+    "price": 179990
+  },
+  {
+    "id": "Z003",
+    "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9df2c98023734277bd1e4ac0b573d673_9366/Zapatillas_Ultraboost_5_Azul_IF1482_HM3_hover.jpg",
+    "name": "Adidas Ultraboost 5",
+    "desc": "Zapatillas de running con tecnología Ultraboost para una mayor amortiguación y retorno de energía en cada paso.",
+    "price": 199990
+  },
+  {
+    "id": "Z004",
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/380089/01/sv01/fnd/CHL/w/640/h/640/fmt/png",
+    "name": "Puma NRGY Star",
+    "desc": "Zapatillas de running con tecnología NRGY para una mayor amortiguación y retorno de energía en cada paso.",
+    "price": 89990
+  },
+  {
+    "id": "Z005",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ba44f6c4-6413-42b6-a0c0-6fdfb22afa7b/NIKE+ZOOMX+STREAKFLY.png",
+    "name": "Nike ZoomX Streakfly",
+    "desc": "Zapatillas de running con tecnología ZoomX para mayor comodidad y velocidad en tus carreras.",
+    "price": 139990
+  },
+  {
+    "id": "Z006",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e91115f6-c500-47a9-935d-8a836e09176e/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+    "name": "Nike ZoomX Zegama Trail 2",
+    "desc": "Zapatillas de trail running con tecnología ZoomX para mayor comodidad y tracción en terrenos difíciles.",
+    "price": 149990
+  },
+  {
+    "id": "Z007",
+    "img": "https://underarmourcl.vtexassets.com/arquivos/ids/808053-300-400?v=638588563007430000&width=300&height=400&aspect=true",
+    "name": "Under Armour HOVR Summit",
+    "desc": "Zapatillas de trail running con tecnología HOVR para mayor comodidad y tracción en terrenos difíciles.",
+    "price": 124990
+  },
+  {
+    "id": "Z008",
+    "img": "https://underarmourcl.vtexassets.com/arquivos/ids/741725-300-400?v=638464431499730000&width=300&height=400&aspect=true",
+    "name": "Under Armour HOVR Summit",
+    "desc": "Zapatillas de trail running con tecnología HOVR para mayor comodidad y tracción en terrenos difíciles.",
+    "price": 124990
+  },
+  {
+    "id": "Z009",
+    "img": "https://underarmourcl.vtexassets.com/arquivos/ids/654482-300-400?v=638098303631370000&width=300&height=400&aspect=true",
+    "name": "Under Armour HOVR Summit",
+    "desc": "Zapatillas de trail running con tecnología HOVR para mayor comodidad y tracción en terrenos difíciles.",
+    "price": 124990
+  },
+  {
+    "id": "Z010",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9df887f6-b642-4788-9db0-8502f0be219f/AIR+ZOOM+ALPHAFLY+NEXT%25+3+EK.png",
+    "name": "Nike Air Zoom Alphafly Next% 3 EK",
+    "desc": "Zapatillas de running con tecnología Air Zoom para mayor comodidad y velocidad en tus carreras.",
+    "price": 189990
+  },
+  {
+    "id": "Z011",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ffd1d33e-8829-48a2-9d3e-562ec0852eb5/NIKE+REACTX+INFINITY+RUN+4+PRM.png",
+    "name": "Nike Reactx Infinity Run 4 PRM",
+    "desc": "Zapatillas de running con tecnología Reactx para mayor comodidad y velocidad en tus carreras.",
+    "price": 159990
+  },
+  {
+    "id": "Z012",
+    "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9403e681abb5472e98734fd26792e7ee_9366/zapatillas-de-running-runfalcon-5.jpg",
+    "name": "Adidas Runfalcon 5",
+    "desc": "Zapatillas de running con tecnología Runfalcon para mayor comodidad y velocidad en tus carreras.",
+    "price": 79990
+  } 
+]
